@@ -1,0 +1,8 @@
+{
+    "name": "Vidly - Development",
+    "db": "mongodb://localhost/Vidly",
+    "initconfig": {
+        "host": "dev-mail-server",
+        "port": 3000
+    }
+}
